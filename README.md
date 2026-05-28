@@ -1,4 +1,4 @@
-*      One day during our final exam, it rained cats and dogs; therefore, our school rescheduled the exam for another day. I was very delighted, so I invited my friend Omar to watch a movie instead of studying for the exam. When he arrived, he brought me a USB containing the film Project Hail Mary because it had recently been released. Throughout the movie, I was surprised by the spaceship called Hail Mary due to its advanced functions. its image shown in **Figure 1**
+*    One day during our final exam, it rained cats and dogs; therefore, our school rescheduled the exam for another day. I was very delighted, so I invited my friend Omar to watch a movie instead of studying for the exam. When he arrived, he brought me a USB containing the film Project Hail Mary because it had recently been released. Throughout the movie, I was surprised by the spaceship called Hail Mary due to its advanced functions. its image shown in **Figure 1**
 
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/1a487f15-1ed3-4571-b7f4-bf147373ae89" />
 
