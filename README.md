@@ -23,5 +23,11 @@ Furthermore, one of the newest functions of this robot is that it can receive vo
 
 **Figure 4: Project Hali Fally PCB
 ---
+How to complete the project without designing a magazine that gives the first impression of the robot; however, the magazine requires creativity to attract eyes. Therefore, my project magazine also inspired the magazine design from Project Hail Mary, using the background design (for educational purposes only), putting the 3D design of the project, and writing a tiny cool description: If you dream of the property of the Grace ship in the movie, be excited that it is now real!! With Project Hail Fally. Finally, adding the QR code of GitHub, **as shown in Figure 5**
+
+<img width="454" height="676" alt="image" src="https://github.com/user-attachments/assets/23883905-a40d-4d51-9c0e-59ff604779bb" />
+
+**Figure 5: Project Hail Mary Magazine**
+---
 * To conclude, many people dream of the unreal powers in movies like me, with the Project Hail Mary film, until I realized that I can create these powers in real life, thus I created Hail Fally, which is inspired by Hail Mary, to prove that anything can be applied in life with a similar purpose, where Hail Fally can rescue people by using temperature and gas sensors that warn when over the limit, or be controlled or move automatically on its own. Moreover, it can receive orders from voice and apply them in real life rapidly. 
 ---
