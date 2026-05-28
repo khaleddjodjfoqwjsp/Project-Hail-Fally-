@@ -7,7 +7,7 @@
 It could save individuals from danger by reading the atmosphere, detecting unusual situations, directing people to the right way, and providing location details. Moreover, users could talk to it and give orders, to which it responded. It acts as a savior that contributes to improving people’s lives and even rescues them in dangerous situations. After the exams and the vacation, the Hail Mary ship could not get out of my mind. I dreamed of a robot like it in real life, with affordable capabilities and cost. Thus, I challenge myself to create my Hail Mary that can support people in their lives.
 * When I tried to name the project, I couldn’t avoid mentioning the film that inspired me for the project from scratch, therefore I named it Project Hail Fally, where I replaced “Mary” with “Fally” because it refers to Fallout, which is a program that helps young people in hardware, thus I mention them too. Project Hail Fally is a rescue and exploration robot with many functions, **as shown in Figure 2**
   
-<img width="1408" height="768" alt="Screenshot 2026-05-26 155013" src="https://github.com/user-attachments/assets/fc07f1af-f282-45d3-87bf-1ac89a5070bf" />
+<img width="800" height="500" alt="Screenshot 2026-05-26 155013" src="https://github.com/user-attachments/assets/fc07f1af-f282-45d3-87bf-1ac89a5070bf" />
 
 *Figure 2: 3D design of Project Hail Fally*
 ---
