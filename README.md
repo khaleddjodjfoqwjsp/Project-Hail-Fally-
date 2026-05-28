@@ -13,10 +13,14 @@ It could save individuals from danger by reading the atmosphere, detecting unusu
 ---
 , including sensing the temperature and gas of the place and displaying the readings on the LCD in the robot's head. Moreover, it warns via buzzer whether the temperature or gas exceeds the safe limit, or in a mobile application, if you are far from the robot. Furthermore, the robot can move automatically on its own without colliding with the rough objects or be controlled via the mobile application for entertainment or exploring places you want it to reach, which uses the most energy-efficient and safe types of motion for robots, the Wheeled motion. The robot can also detect the distance and display it on the app to keep safe from collisions, **as shown in Figure 3**
 
-<img width="579" height="970" alt="0c5e7d6ade314a22a56c0cc9b1c10762" src="https://github.com/user-attachments/assets/2888558c-56d5-49c9-8970-6b57c67c7ba8" />
+<img width="579" height="700" alt="0c5e7d6ade314a22a56c0cc9b1c10762" src="https://github.com/user-attachments/assets/2888558c-56d5-49c9-8970-6b57c67c7ba8" />
 
 **Figure 3: Project Hail Fally App**
 ---
-Furthermore, one of the newest functions of this robot is that it can receive voice commands through the app to order; nevertheless, it applies them without any delays.
+Furthermore, one of the newest functions of this robot is that it can receive voice commands through the app to order; nevertheless, it applies them without any delays. To ensure efficiency of the project and select the suitable components, it requires the PCB file, which is the circuit of the project, simply the project mind, including project wires, selecting where the pins of each piece are, and how each material interacts with others. I created the PCB file using the EasyEDA website, **as shown in Figure 4**
+
+<img width="736" height="439" alt="image" src="https://github.com/user-attachments/assets/be187e72-4360-4092-978a-4d2cca2ae073" />
+
+**Figure 4: Project Hali Fally PCB
 * To conclude, many people dream of the unreal powers in movies like me, with the Project Hail Mary film, until I realized that I can create these powers in real life, thus I created Hail Fally, which is inspired by Hail Mary, to prove that anything can be applied in life with a similar purpose, where Hail Fally can rescue people by using temperature and gas sensors that warn when over the limit, or be controlled or move automatically on its own. Moreover, it can receive orders from voice and apply them in real life rapidly. 
 ---
