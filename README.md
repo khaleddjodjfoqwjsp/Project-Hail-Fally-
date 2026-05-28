@@ -31,3 +31,17 @@ How to complete the project without designing a magazine that gives the first im
 ---
 * To conclude, many people dream of the unreal powers in movies like me, with the Project Hail Mary film, until I realized that I can create these powers in real life, thus I created Hail Fally, which is inspired by Hail Mary, to prove that anything can be applied in life with a similar purpose, where Hail Fally can rescue people by using temperature and gas sensors that warn when over the limit, or be controlled or move automatically on its own. Moreover, it can receive orders from voice and apply them in real life rapidly. 
 ---
+
+### 🛠️ Bill of Materials (BOM)
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
