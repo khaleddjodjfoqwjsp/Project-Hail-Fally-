@@ -25,7 +25,7 @@ Furthermore, one of the newest functions of this robot is that it can receive vo
 ---
 How to complete the project without designing a magazine that gives the first impression of the robot; however, the magazine requires creativity to attract eyes. Therefore, my project magazine also inspired the magazine design from Project Hail Mary, using the background design (for educational purposes only), putting the 3D design of the project, and writing a tiny cool description: If you dream of the property of the Grace ship in the movie, be excited that it is now real!! With Project Hail Fally. Finally, adding the QR code of GitHub, **as shown in Figure 5**
 
-<img width="454" height="676" alt="image" src="https://github.com/user-attachments/assets/23883905-a40d-4d51-9c0e-59ff604779bb" />
+<img width="614" height="915" alt="46660e7a8e594842b059902c0d8b9397" src="https://github.com/user-attachments/assets/556f5cc6-e3cc-4335-93f2-bf44a0eb342e" />
 
 **Figure 5: Project Hail Mary Magazine**
 ---
