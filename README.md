@@ -13,7 +13,7 @@ It could save individuals from danger by reading the atmosphere, detecting unusu
 ---
 , including sensing the temperature and gas of the place and displaying the readings on the LCD in the robot's head. Moreover, it warns via buzzer whether the temperature or gas exceeds the safe limit, or in a mobile application, if you are far from the robot. Furthermore, the robot can move automatically on its own without colliding with the rough objects or be controlled via the mobile application for entertainment or exploring places you want it to reach, which uses the most energy-efficient and safe types of motion for robots, the Wheeled motion. The robot can also detect the distance and display it on the app to keep safe from collisions, **as shown in Figure 3**
 
-<img width="579" height="700" alt="0c5e7d6ade314a22a56c0cc9b1c10762" src="https://github.com/user-attachments/assets/2888558c-56d5-49c9-8970-6b57c67c7ba8" />
+<img width="400" height="600" alt="0c5e7d6ade314a22a56c0cc9b1c10762" src="https://github.com/user-attachments/assets/2888558c-56d5-49c9-8970-6b57c67c7ba8" />
 
 *Figure 3: Project Hail Fally App*
 ---
