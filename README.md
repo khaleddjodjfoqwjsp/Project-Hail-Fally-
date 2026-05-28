@@ -21,7 +21,7 @@ Furthermore, one of the newest functions of this robot is that it can receive vo
 
 <img width="736" height="439" alt="image" src="https://github.com/user-attachments/assets/be187e72-4360-4092-978a-4d2cca2ae073" />
 
-**Figure 4: Project Hali Fally PCB
+*Figure 4: Project Hali Fally PCB*
 ---
 How to complete the project without designing a magazine that gives the first impression of the robot; however, the magazine requires creativity to attract eyes. Therefore, my project magazine also inspired the magazine design from Project Hail Mary, using the background design (for educational purposes only), putting the 3D design of the project, and writing a tiny cool description: If you dream of the property of the Grace ship in the movie, be excited that it is now real!! With Project Hail Fally. Finally, adding the QR code of GitHub, **as shown in Figure 5**
 
