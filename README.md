@@ -22,5 +22,6 @@ Furthermore, one of the newest functions of this robot is that it can receive vo
 <img width="736" height="439" alt="image" src="https://github.com/user-attachments/assets/be187e72-4360-4092-978a-4d2cca2ae073" />
 
 **Figure 4: Project Hali Fally PCB
+---
 * To conclude, many people dream of the unreal powers in movies like me, with the Project Hail Mary film, until I realized that I can create these powers in real life, thus I created Hail Fally, which is inspired by Hail Mary, to prove that anything can be applied in life with a similar purpose, where Hail Fally can rescue people by using temperature and gas sensors that warn when over the limit, or be controlled or move automatically on its own. Moreover, it can receive orders from voice and apply them in real life rapidly. 
 ---
