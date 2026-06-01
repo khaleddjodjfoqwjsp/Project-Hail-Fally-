@@ -57,3 +57,16 @@ How to complete the project without designing a magazine that gives the first im
 
 ---
 
+### 🔌 Wiring Diagram & Pinouts
+
+* **LCD (16x2):** RS -> Pin 9, E -> Pin 8, DB4 -> Pin 7, DB5 -> Pin 6, DB6 -> Pin 5, DB7 -> Pin 4
+* **Motor Drive:** IN1 -> Pin 13, IN2 -> Pin 12, IN3 -> Pin 11, IN4 -> Pin 10
+* **MQ-2 Gas Sensor:** AO -> A1, DO -> Pin 3
+* **Buzzer:** OUT -> Pin 2
+* **Servo Motor:** PWM -> A0
+* **Ultrasonic Sensor:** Trig -> A3, Echo -> A2
+* **LM35 Temp Sensor:** VOUT -> A5
+* **Bluetooth Module:** TXD -> Pin 0
+
+---
+
