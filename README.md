@@ -26,7 +26,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 - It can also be used as a game that activates the brain, where the robot can be controlled via an app to have fun and discover things with it wherever you want. It is useful on this side.
 -	You can turn on the light in the dark and activate the buzzer to make a sound all via the app, thus it has diversity while using it.
 
-### 🛠️ Bill of Materials (BOM)
+## 🛠️ Bill of Materials (BOM)
 
 | Component | Quantity | Price | Purchase link |
 | :--- | :---: | :--- | :--- |
@@ -80,8 +80,8 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 7. Then, put them inside the prototype and connect the wires of the headers pin to the ultrasonic sensor, LCD, and nine servo motors. 
 8. Finally  run out the project and make the dream real.
 
-## Test Plan 
-**The test plan is applied to the project to ensure the durability and efficiency of the integrated materials, including hardware and software testing.**
+## 🔬 Test Plan 
+### **The test plan is applied to the project to ensure the durability and efficiency of the integrated materials, including hardware and software testing.**
 1. *Mechanical structural testing:* which proves that the material can withstand the load even under high load, thus putting 2 kg on the top of the prototype to prove its durability.
 2. *Electrical and power testing:* which tests the voltage stability and current, as well as the behavior of the motors, using a digital multimeter to ensure that stability for verifying the motors' strength. The spikes will be used to measure the torque of the motors.
 3. *The kinetic and control test:* which determines whether the motor's angle is accurate or if some errors cause a problem, moreover, checks the delay of the project, and it works well.
