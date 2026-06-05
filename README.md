@@ -51,7 +51,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 | **Pin Header 1x4** | 2 | 0.058$ | https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976?category=52 |
 | **PCA9685** | 1 | 3.96$ | https://free-electronic.com/product/servo-driver-module-16-channel-pca9685/ |
 
-### 🔌 Wiring Diagram & Pinouts
+## 🔌 Wiring Diagram & Pinouts
 
 * **LCD (16x2):** RS -> Pin 9, E -> Pin 8, DB4 -> Pin 7, DB5 -> Pin 6, DB6 -> Pin 5, DB7 -> Pin 4
 * **MQ-2 Gas Sensor:** AO -> A1, DO -> Pin 3
@@ -69,5 +69,15 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 * **Servo motor 6:** PWM -> PWM 5
 * **Servo motor 7:** PWM -> PWM 6
 * **Servo motor 8:** PWM -> PWM 7
----
+
+## ⚒️ How to build step-by-step
+- Bringing all the material for the detailed use of the bill of material (BOM) section, including their price and purchase link.
+- Moreover, creating the CAD to life by printing the custom 3D design in the installation section or from files, then converting it to a physical prototype. For example, Fused Deposition Modeling (FDM) is used with PLA (Polylactic Acid) due to its durability, and it can withstand the heavy components 
+- Then, integrate all the materials, including linking the upper and lower parts of the robot, to ensure they fit 
+-After finishing integrating the prototype, we will have two servo motors for each of the four legs, as shown in the 3D design.
+- Furthermore, we will print the PCB from the files or the installation section, which is the brain of the project.
+- While PCB is printing, we will create the holder of the board from the files or installation, then gather them together.
+- Then, put them inside the prototype and connect the wires of the headers pin to the ultrasonic sensor, LCD, and nine servo motors. 
+- Finally  run out the project and make the dream real
+
 
