@@ -107,6 +107,9 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 ## Magazine 
 <img width="482" height="719" alt="image" src="https://github.com/user-attachments/assets/40c28d2d-bf30-456c-8f24-e39351ced472" />
 
+## Project Links & Installing 
+[3D design](https://cad.onshape.com/documents/1a12a7a63424902c2d429a8a/w/e03009ff667dd449c4461ee8/e/06985d8128c2bdd529ca1e70?renderMode=0&uiState=6a232fa71736c3f3fc3942b8)
+
 
 
 
