@@ -98,6 +98,17 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 ### Project Structure
 <img width="991" height="567" alt="33344654ec924b7983657241d97b29c6" src="https://github.com/user-attachments/assets/266e8e5f-74f5-4a1b-bea3-54ae8397c14d" />
 
+### Board Holder
+<img width="378" height="660" alt="Screenshot_2026-06-05_231529-removebg-preview" src="https://github.com/user-attachments/assets/6a526f83-98ca-4880-9060-18a2a88cf97d" />
+
+### pcb
+<img width="718" height="408" alt="image" src="https://github.com/user-attachments/assets/111c8cda-d971-45ba-880d-0195ab23be96" />
+
+## Magazine 
+<img width="482" height="719" alt="image" src="https://github.com/user-attachments/assets/40c28d2d-bf30-456c-8f24-e39351ced472" />
+
+
+
 
 
 
