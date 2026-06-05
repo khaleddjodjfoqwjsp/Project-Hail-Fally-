@@ -94,5 +94,10 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 - To develop a lightweight, durable, suitable 3D printed design that can withstand any habitat and cope with it.
 - Cost efficiency project for those who have never had the chance to bring a robot ever, which is designed to compare to high-end industrial robots.
 
+## Project Images
+### Project Structure
+<img width="991" height="567" alt="33344654ec924b7983657241d97b29c6" src="https://github.com/user-attachments/assets/266e8e5f-74f5-4a1b-bea3-54ae8397c14d" />
+
+
 
 
