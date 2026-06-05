@@ -109,6 +109,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 
 ## Project Links & Installing 
 [3D design](https://cad.onshape.com/documents/1a12a7a63424902c2d429a8a/w/e03009ff667dd449c4461ee8/e/06985d8128c2bdd529ca1e70?renderMode=0&uiState=6a232fa71736c3f3fc3942b8)
+[PCB design link](https://u.easyeda.com/join?type=project&key=029c9c63b4f82ed72b2982c6df39406c&inviter=98e19a895f66457f9303f5d792545d7f)
 
 
 
