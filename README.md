@@ -7,6 +7,15 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 - It is an explorer and rescue robot that can be automatic or controlled via a controller system. 
 - It is not only for the rescue behaviors; however, it can also be used for enjoying and receiving orders, such as saying orders, and it offers them rapidly.
 
+## 🧾 Description
+- It's a robot inspired by the movie Project Hail Mary to do similar functions, which obviously does stuff that clearly contributes to many important issues indoors.
+- I couldn’t avoid mentioning the film that inspired me for the project from scratch, therefore I named it Project Hail Fally, where I replaced “Mary” with “Fally” because it refers to Fallout, which is a program that helps young people in hardware.
+- The project contains sensors to detect the temperature and gas in the place and displays the readings on the LCD in the robot's head.
+- It warns via buzzer whether the temperature or gas exceeds the safe limit, or in a mobile application, if you are far from the robot.
+- Furthermore, the robot can move automatically on its own without colliding with the rough objects or be controlled via the mobile application for entertainment or exploring places you want it to reach.
+- The robot is designed in a quadruped structure with four legs and eight servo motors to control the motion, which is the most familiar design to Rockey from Project Hail Mary.
+- Moreover, one of the newest functions of this robot is that it can receive voice commands through the app to order; nevertheless, it applies them without any delays.
+
 
 ### 🛠️ Bill of Materials (BOM)
 
