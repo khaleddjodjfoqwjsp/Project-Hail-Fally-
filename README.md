@@ -17,7 +17,6 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 - Moreover, one of the newest functions of this robot is that it can receive voice commands through the app to order; nevertheless, it applies them without any delays.
 
 ## 🧑‍🔬 Usage
-Usage
 1. The project will be used as a savior of the location, making multiple tasks.
 - It preserves the people in the system from the danger of high temperature or toxic gases, such as increasing CO2 or decreasing oxygen.
 - Lighting in the darkness with the light in the front of the robot. 
@@ -26,9 +25,6 @@ Usage
 2. Although it is used for exploring and rescue.
 - It can also be used as a game that activates the brain, where the robot can be controlled via an app to have fun and discover things with it wherever you want. It is useful on this side.
 -	You can turn on the light in the dark and activate the buzzer to make a sound all via the app, thus it has diversity while using it.
-
-
-
 
 ### 🛠️ Bill of Materials (BOM)
 
