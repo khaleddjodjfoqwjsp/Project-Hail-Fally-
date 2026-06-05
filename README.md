@@ -87,4 +87,12 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 3. *The kinetic and control test:* which determines whether the motor's angle is accurate or if some errors cause a problem, moreover, checks the delay of the project, and it works well.
 4. *The full project test:* which ensures that the entire prototype connected well together without any errors, and the assembly is working correctly, which is the test that checks the final issues.
 
+## 🗣️ Motivation
+- These days, the majority of the robot-heavy relines on wheeled robots; however, their mobility and flexibility are critically limited to flat or harsh environments. In contrast, the real world requires a system that can withstand unstable environments or regions 
+- The goal behind this project is to create a project that can fit the changes in the environment, flexible enough to adapt mechanically to unstructured environments where wheeled systems fail.
+- The primary goal for Project Hail Fally is to design a well-affordable structure with varied functions, as well as a cost-effective robot that bridges the gap between the complicated design and physical realization.
+- To develop a lightweight, durable, suitable 3D printed design that can withstand any habitat and cope with it.
+- Cost efficiency project for those who have never had the chance to bring a robot ever, which is designed to compare to high-end industrial robots.
+
+
 
