@@ -72,12 +72,12 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 
 ## ⚒️ How to build step-by-step
 - Bringing all the material for the detailed use of the bill of material (BOM) section, including their price and purchase link.
-- Moreover, creating the CAD to life by printing the custom 3D design in the installation section or from files, then converting it to a physical prototype. For example, Fused Deposition Modeling (FDM) is used with PLA (Polylactic Acid) due to its durability, and it can withstand the heavy components 
-- Then, integrate all the materials, including linking the upper and lower parts of the robot, to ensure they fit 
--After finishing integrating the prototype, we will have two servo motors for each of the four legs, as shown in the 3D design.
+- Moreover, creating the CAD to life by printing the custom 3D design in the installation section or from files, then converting it to a physical prototype. For example, Fused Deposition Modeling (FDM) is used with PLA (Polylactic Acid) due to its durability, and it can withstand the heavy components.
+- Then, integrate all the materials, including linking the upper and lower parts of the robot, to ensure they fit. 
+- After finishing integrating the prototype, we will have two servo motors for each of the four legs, as shown in the 3D design.
 - Furthermore, we will print the PCB from the files or the installation section, which is the brain of the project.
 - While PCB is printing, we will create the holder of the board from the files or installation, then gather them together.
 - Then, put them inside the prototype and connect the wires of the headers pin to the ultrasonic sensor, LCD, and nine servo motors. 
-- Finally  run out the project and make the dream real
+- Finally  run out the project and make the dream real.
 
 
