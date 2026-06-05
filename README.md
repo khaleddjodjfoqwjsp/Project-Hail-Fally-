@@ -2,10 +2,10 @@
 One day during our final exam, it rained cats and dogs; therefore, our school rescheduled the exam for another day. I was very delighted, so I invited my friend Omar to watch a movie instead of studying for the exam. When he arrived, he brought me a USB containing the film Project Hail Mary because it had recently been released. Throughout the movie, I was surprised by the spaceship Hail Mary, due to its advanced capabilities, which made me want to create my own Hail Mary.
 
 ## ⚽ purposes
-•	Inspiring the goals of the project from the movie Project Hail Mary, which made me realize that we require robots like the Hail Mary spaceship.
-•	It saves many lives from extreme temperatures and toxic gas emissions, where thousands of individuals have died from them, particularly older people.
-•	It is an explorer and rescue robot that can be automatic or controlled via a controller system. 
-•	It is not only for the rescue behaviors; however, it can also be used for enjoying and receiving orders, such as saying orders, and it offers them rapidly.
+- Inspiring the goals of the project from the movie Project Hail Mary, which made me realize that we require robots like the Hail Mary spaceship.
+- It saves many lives from extreme temperatures and toxic gas emissions, where thousands of individuals have died from them, particularly older people.
+- It is an explorer and rescue robot that can be automatic or controlled via a controller system. 
+- It is not only for the rescue behaviors; however, it can also be used for enjoying and receiving orders, such as saying orders, and it offers them rapidly.
 
 
 ### 🛠️ Bill of Materials (BOM)
