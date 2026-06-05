@@ -54,13 +54,20 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 ### 🔌 Wiring Diagram & Pinouts
 
 * **LCD (16x2):** RS -> Pin 9, E -> Pin 8, DB4 -> Pin 7, DB5 -> Pin 6, DB6 -> Pin 5, DB7 -> Pin 4
-* **Motor Drive:** IN1 -> Pin 13, IN2 -> Pin 12, IN3 -> Pin 11, IN4 -> Pin 10
 * **MQ-2 Gas Sensor:** AO -> A1, DO -> Pin 3
 * **Buzzer:** OUT -> Pin 2
-* **Servo Motor:** PWM -> A0
+* **Servo Motor:** PWM -> PWM 8
 * **Ultrasonic Sensor:** Trig -> A3, Echo -> A2
 * **LM35 Temp Sensor:** VOUT -> A5
 * **Bluetooth Module:** TXD -> Pin 0
-
+* **PCA9685:** SDA -> A4, SAL -> A5
+* **Servo motor 1:** PWM -> PWM 0
+* **Servo motor 2:** PWM -> PWM 1
+* **Servo motor 3:** PWM -> PWM 2
+* **Servo motor 4:** PWM -> PWM 3
+* **Servo motor 5:** PWM -> PWM 4
+* **Servo motor 6:** PWM -> PWM 5
+* **Servo motor 7:** PWM -> PWM 6
+* **Servo motor 8:** PWM -> PWM 7
 ---
 
