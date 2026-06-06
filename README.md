@@ -5,14 +5,14 @@
 One day during our final exam, it rained cats and dogs; therefore, our school rescheduled the exam for another day. I was very delighted, so I invited my friend Omar to watch a movie instead of studying for the exam. When he arrived, he brought me a USB containing the film Project Hail Mary because it had recently been released. Throughout the movie, I was surprised by the spaceship Hail Mary, due to its advanced capabilities, which made me want to create my own Hail Mary.
 
 ## ⚽ purposes
-- Inspiring the goals of the project from the movie Project Hail Mary, which made me realize that we require robots like the Hail Mary spaceship.
+- Inspiring the goals of the project from the movie Project Hail Mary (Inspired by Project Hail Mary movie - For educational purposes only), which made me realize that we require robots like the Hail Mary spaceship .
 - It saves many lives from extreme temperatures and toxic gas emissions, where thousands of individuals have died from them, particularly older people.
 - It is an explorer and rescue robot that can be automatic or controlled via a controller system. 
 - It is not only for the rescue behaviors; however, it can also be used for enjoying and receiving orders, such as saying orders, and it offers them rapidly.
 
 ## 🧾 Description
 - It's a robot inspired by the movie Project Hail Mary to do similar functions, which obviously does stuff that clearly contributes to many important issues indoors.
-- I couldn’t avoid mentioning the film that inspired me for the project from scratch, therefore I named it Project Hail Fally, where I replaced “Mary” with “Fally” because it refers to Fallout, which is a program that helps young people in hardware.
+- I couldn’t avoid mentioning the film that inspired me for the project from scratch (Inspired by Project Hail Mary movie name - For educational purposes only), therefore I named it Project Hail Fally, where I replaced “Mary” with “Fally” because it refers to Fallout, which is a program that helps young people in hardware.
 - The project contains sensors to detect the temperature and gas in the place and displays the readings on the LCD in the robot's head.
 - It warns via buzzer whether the temperature or gas exceeds the safe limit, or in a mobile application, if you are far from the robot.
 - Furthermore, the robot can move automatically on its own without colliding with the rough objects or be controlled via the mobile application for entertainment or exploring places you want it to reach.
@@ -434,8 +434,8 @@ Finally, make as you did with previous orders, where you bring the call Bluetoot
 <img width="1592" height="587" alt="image" src="https://github.com/user-attachments/assets/2784c6be-74e8-4fd3-9022-6e3693e0cd52" />
 
 ## 📖 Magazine 
-<img width="482" height="719" alt="image" src="https://github.com/user-attachments/assets/40c28d2d-bf30-456c-8f24-e39351ced472" />
- 
+<img width="483" height="719" alt="image" src="https://github.com/user-attachments/assets/0c570023-5853-4f75-b5ae-389de879f85b" />
+
 ## ⬇️ Project Links & Installing 
 [3D design](https://cad.onshape.com/documents/1a12a7a63424902c2d429a8a/w/e03009ff667dd449c4461ee8/e/06985d8128c2bdd529ca1e70?renderMode=0&uiState=6a232fa71736c3f3fc3942b8)
 <br>[PCB design link](https://u.easyeda.com/join?type=project&key=029c9c63b4f82ed72b2982c6df39406c&inviter=98e19a895f66457f9303f5d792545d7f)
