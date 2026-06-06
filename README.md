@@ -382,7 +382,7 @@ int readPing() {
   }
 ```
 
-## 📱 App creating 
+## 📱 App creation  
 -	Using the MIT App Inventor, make a new project to start the App.
 - Firstly, put the Bluetooth in the screen where you can use the mobile to connect with the app.
 - Secondly, creating four buttons for the motion direction involves forward, backward, left, and right, then in the blocks section to make the orders summon when the button is pressed (the name of the button, for example, forward), then get another block called call Bluetooth client send text finally bring the text block and connect it with them writing inside it the litter you will write in the code that the microcontroller can read for instance F, B, L, R. do this step with the rest of the buttons motion.
