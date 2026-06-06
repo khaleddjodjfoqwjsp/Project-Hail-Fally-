@@ -378,6 +378,18 @@ int readPing() {
   moveStop();  // using it to pull the body 
   }
 ```
+
+## 📱 App creating 
+-	Using the MIT App Inventor, make a new project to start the App.
+- Firstly, put the Bluetooth in the screen where you can use the mobile to connect with the app.
+- Secondly, creating four buttons for the motion direction involves forward, backward, left, and right, then in the blocks section to make the orders summon when the button is pressed (the name of the button, for example, forward), then get another block called call Bluetooth client send text finally bring the text block and connect it with them writing inside it the litter you will write in the code that the microcontroller can read for instance F, B, L, R. do this step with the rest of the buttons motion.
+- Thirdly, for the motion, it is to create the auto mode button. It is the same as the regular buttons; however, it differs in the code, where you put the code with the function you need. For example, in the code I wrote, when I send M, then that means that the Auto mode, thus for the auto mode button, I will put in the text M.
+- The same thing will happen when you turn on the light and buzzer, or turning them off.
+- Moreover, in the code writing, when the gas or temperature exceeds the limit, then in the blocks using the if block, bring inside it the call Bluetooth client receive block = ( the thing you want to display on the screen when the condition happens. Do it with the temperature and gas, also for showing stability.
+- For the speaking, summon a button, rewrite it to speak, and in blocks bring the speech after getting the text block further. Inside it puts an if block, the = block, then brings the result in the speech block, ultimately brings text, and puts inside it the word you will say
+Finally, make as you did with previous orders, where you bring the call Bluetooth, send a text, and put the litter.
+- All blocks exist in the images section.
+
 ## ⚒️ How to build step-by-step
 1. Bringing all the material for the detailed use of the bill of material (BOM) section, including their price and purchase link.
 2. Moreover, creating the CAD to life by printing the custom 3D design in the installation section or from files, then converting it to a physical prototype. For example, Fused Deposition Modeling (FDM) is used with PLA (Polylactic Acid) due to its durability, and it can withstand the heavy components.
@@ -414,6 +426,9 @@ int readPing() {
 
 ### Project App
 <img width="426" height="663" alt="image" src="https://github.com/user-attachments/assets/a967f007-35de-4704-9386-04a5964e381c" />
+
+### App blocks 
+<img width="1592" height="587" alt="image" src="https://github.com/user-attachments/assets/2784c6be-74e8-4fd3-9022-6e3693e0cd52" />
 
 ## 📖 Magazine 
 <img width="482" height="719" alt="image" src="https://github.com/user-attachments/assets/40c28d2d-bf30-456c-8f24-e39351ced472" />
