@@ -434,7 +434,9 @@ Finally, make as you did with previous orders, where you bring the call Bluetoot
 <img width="1592" height="587" alt="image" src="https://github.com/user-attachments/assets/2784c6be-74e8-4fd3-9022-6e3693e0cd52" />
 
 ## 📖 Magazine 
-<img width="483" height="719" alt="image" src="https://github.com/user-attachments/assets/0c570023-5853-4f75-b5ae-389de879f85b" />
+<p align="center">
+<img width="617" height="911" alt="e77f66953f584e3a9ddcfa0c71354606" src="https://github.com/user-attachments/assets/92ed01fb-6a88-4e9c-bbac-381e5c29dc25" />
+</p>
 
 ## ⬇️ Project Links & Installing 
 [3D design](https://cad.onshape.com/documents/1a12a7a63424902c2d429a8a/w/e03009ff667dd449c4461ee8/e/06985d8128c2bdd529ca1e70?renderMode=0&uiState=6a232fa71736c3f3fc3942b8)
