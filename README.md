@@ -435,7 +435,7 @@ Finally, make as you did with previous orders, where you bring the call Bluetoot
 
 ## 📖 Magazine 
 <p align="center">
-<img width="617" height="911" alt="e77f66953f584e3a9ddcfa0c71354606" src="https://github.com/user-attachments/assets/92ed01fb-6a88-4e9c-bbac-381e5c29dc25" />
+<img width="1345" height="1999" alt="Project Hail Fally (3)" src="https://github.com/user-attachments/assets/8ade5fce-ec81-453f-87a7-d52a76cc99e9" />
 </p>
 
 ## ⬇️ Project Links & Installing 
