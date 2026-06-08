@@ -53,6 +53,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 | **Pin Header 1x3** | 8 | 0.077$ | https://free-electronic.com/product/pin-header-male-2-54mm-1x3-straight/ |
 | **Pin Header 1x4** | 2 | 0.058$ | https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976?category=52 |
 | **PCA9685** | 1 | 3.96$ | https://free-electronic.com/product/servo-driver-module-16-channel-pca9685/ |
+| **Total Price** | | 55.509$ | |
 
 ## 🔌 Wiring Diagram & Pinouts
 
