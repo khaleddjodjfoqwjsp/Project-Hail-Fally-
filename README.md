@@ -396,8 +396,9 @@ int readPing() {
 1. Using the bill of materials (BOM) table to bring all the components of the project.
 2. Utilizing the CAD file to print the 3D design in the installation section.
 3. Printing the PCB from the files as well as the installation section by sending it to a factory and determining the board dimension 7020x3430 mil.
-4. Integrated the components with the 3D design, including servo motors and an ultrasonic sensor, and an LCD.
-5. Putting the board inside its holder, then between the two layers, place the final connection of the header pins with the servo motors, the ultrasonic sensor, and the LCD, thus the prototype will be finished.
+4. Connect your laptop to the microcontroller ATMEGA328P-U and transfer the code to it, where you will find the code in the firmware folder.
+5. Integrated the components with the 3D design, including servo motors and an ultrasonic sensor, and an LCD to the pin headers using the Wiring Diagram & Pinouts section.
+6. Putting the board inside its holder, then between the two layers, place the final connection of the header pins with the servo motors, the ultrasonic sensor, and the LCD, thus the prototype will be finished.
 
 ## 🔬 Test Plan 
 ### **The test plan is applied to ensure the stability and efficiency of the prototype, including hardware and software.**
