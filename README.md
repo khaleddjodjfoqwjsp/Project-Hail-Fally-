@@ -431,7 +431,7 @@ int readPing() {
 
 ## 📖 Magazine 
 <p align="center">
-<img width="1345" height="1999" alt="Project Hail Fally (3)" src="https://github.com/user-attachments/assets/8ade5fce-ec81-453f-87a7-d52a76cc99e9" />
+<img width="1345" height="1999" alt="Project Hail Fally (4)" src="https://github.com/user-attachments/assets/9746395b-fccc-454a-bbbb-d2fd49ac7d2c" />
 </p>
 
 ## ⬇️ Project Links & Installing 
