@@ -21,12 +21,12 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 
 
 ## 🧑‍🔬 Usage
-1- The Project Hail Fally contributes to the region in multiple ways 
+1. The Project Hail Fally contributes to the region in multiple ways 
 - The robot scans the place to ensure the temperature is suitable in the location and the absence of toxic gases.
 - If it senses dangerous reading, it will warn you before something bad happens.
 - Using for dark places where you can turn on the light in the robot via the app.
 - Explore places and save their data, displaying it in the LCD or app.
-2- Despite the automatic functions, you can also control it
+2. Despite the automatic functions, you can also control it
 - Moving the robot forward, backward, left, and right using the app for having fun or exploring new locations.
 - The light and buzzer can be turned on by yourself via the app as well.
 
