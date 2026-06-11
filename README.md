@@ -5,29 +5,31 @@
 One day during our final exam, it rained cats and dogs; therefore, our school rescheduled the exam for another day. I was very delighted, so I invited my friend Omar to watch a movie instead of studying for the exam. When he arrived, he brought me a USB containing the film Project Hail Mary because it had recently been released. Throughout the movie, I was surprised by the spaceship Hail Mary, due to its advanced capabilities, which made me want to create my own Hail Mary.
 
 ## ⚽ purposes
-- Inspiring the goals of the project from the movie Project Hail Mary (Inspired by Project Hail Mary movie - For educational purposes only), which made me realize that we require robots like the Hail Mary spaceship .
-- It saves many lives from extreme temperatures and toxic gas emissions, where thousands of individuals have died from them, particularly older people.
-- It is an explorer and rescue robot that can be automatic or controlled via a controller system. 
-- It is not only for the rescue behaviors; however, it can also be used for enjoying and receiving orders, such as saying orders, and it offers them rapidly.
+- The project was inspired by the Project Hail Mary movie for educational purposes only(also because I love it), where I dreamed of creating the same spaceship as the film.
+- There are many cases of individuals who have passed away due to extreme temperatures or harmful gas emissions, so the project can reach the case before it causes a miserable condition.
+- Besides the moral missions, the robot can also be used for fun by making it an automatic game.
+- It can be your friend, your savior, or your funny game that also received orders through voice.
 
 ## 🧾 Description
-- It's a robot inspired by the movie Project Hail Mary to do similar functions, which obviously does stuff that clearly contributes to many important issues indoors.
-- I couldn’t avoid mentioning the film that inspired me for the project from scratch (Inspired by Project Hail Mary movie name - For educational purposes only), therefore I named it Project Hail Fally, where I replaced “Mary” with “Fally” because it refers to Fallout, which is a program that helps young people in hardware.
-- The project contains sensors to detect the temperature and gas in the place and displays the readings on the LCD in the robot's head.
-- It warns via buzzer whether the temperature or gas exceeds the safe limit, or in a mobile application, if you are far from the robot.
-- Furthermore, the robot can move automatically on its own without colliding with the rough objects or be controlled via the mobile application for entertainment or exploring places you want it to reach.
-- The robot is designed in a quadruped structure with four legs and eight servo motors to control the motion, which is the most familiar design to Rockey from Project Hail Mary.
-- Moreover, one of the newest functions of this robot is that it can receive voice commands through the app to order; nevertheless, it applies them without any delays.
+- The project called Project Hail Mary is inspired by the film Project Hail Mary.
+- It is a robot created to do functions similar to the Hail Mary ship in the movie, including rescue, taking orders, moving automatically, or controlling it via an application.
+- The robot moves with 4 legs using 8 servo motors connected with the PCA9685 module, which gathers all eight servo motors.
+- The core of the project looks like a sandwich where the two layers close the circuit or the components in general.
+- The circuit in the middle of the robot is its brain, where it gives the order for all devices by the Atmega328p.
+- In the top layer, there is the robot head, which consists of two eyes for the ultrasonic sensor and a hole for the gas sensor; moreover, a rectangular place for the LCD that will display all the sensors read, including temperature, gas, and distance.
+- Ultimately, there is a Bluetooth module used for sending or receiving orders from the mobile app, including controlling the robot's motion, turning on the light or warning for temperature or gas, or displaying distance or given orders from voice.
+
 
 ## 🧑‍🔬 Usage
-1. The project will be used as a savior of the location, making multiple tasks.
-- It preserves the people in the system from the danger of high temperature or toxic gases, such as increasing CO2 or decreasing oxygen.
-- Lighting in the darkness with the light in the front of the robot. 
-- Resolved the speak orders via app in a part of a second and did it rapidly.
--	Exploring the places and giving you their information 
-2. Although it is used for exploring and rescue.
-- It can also be used as a game that activates the brain, where the robot can be controlled via an app to have fun and discover things with it wherever you want. It is useful on this side.
--	You can turn on the light in the dark and activate the buzzer to make a sound all via the app, thus it has diversity while using it.
+1- The Project Hail Fally contributes to the region in multiple ways 
+- The robot scans the place to ensure the temperature is suitable in the location and the absence of toxic gases.
+- If it senses dangerous reading, it will warn you before something bad happens.
+- Using for dark places where you can turn on the light in the robot via the app.
+- Explore places and save their data, displaying it in the LCD or app.
+2- Despite the automatic functions, you can also control it
+- Moving the robot forward, backward, left, and right using the app for having fun or exploring new locations.
+- The light and buzzer can be turned on by yourself via the app as well.
+
 
 ## 🛠️ Bill of Materials (BOM)
 
@@ -384,39 +386,32 @@ int readPing() {
 ```
 
 ## 📱 App creation  
--	Using the MIT App Inventor, make a new project to start the App.
-- Firstly, put the Bluetooth in the screen where you can use the mobile to connect with the app.
-- Secondly, creating four buttons for the motion direction involves forward, backward, left, and right, then in the blocks section to make the orders summon when the button is pressed (the name of the button, for example, forward), then get another block called call Bluetooth client send text finally bring the text block and connect it with them writing inside it the litter you will write in the code that the microcontroller can read for instance F, B, L, R. do this step with the rest of the buttons motion.
-- Thirdly, for the motion, it is to create the auto mode button. It is the same as the regular buttons; however, it differs in the code, where you put the code with the function you need. For example, in the code I wrote, when I send M, then that means that the Auto mode, thus for the auto mode button, I will put in the text M.
-- The same thing will happen when you turn on the light and buzzer, or turning them off.
-- Moreover, in the code writing, when the gas or temperature exceeds the limit, then in the blocks using the if block, bring inside it the call Bluetooth client receive block = ( the thing you want to display on the screen when the condition happens. Do it with the temperature and gas, also for showing stability.
-- For the speaking, summon a button, rewrite it to speak, and in blocks bring the speech after getting the text block further. Inside it puts an if block, the = block, then brings the result in the speech block, ultimately brings text, and puts inside it the word you will say
-Finally, make as you did with previous orders, where you bring the call Bluetooth, send a text, and put the litter.
-- All blocks exist in the images section.
+- The website used for making the application is MIT App Inventor.
+- In the design screen, put the components to connect and the button you want, or that is shown in the app image in the image section.
+- For the motions button, turn on the light and buzzer in the block you will summon the When Bluetooth clicks block, inside it puts the button, then the text or the letter you will write in the code.
+- Display the message of getting over the limit for temperature and gas using the if block, then put the = block inside it where the condition in the code happens, the message will appear in the app.
+- Finally, for the speaking button, use an if block and summon the word you will say, and write a text that the app will convert your words to code text.
 
 ## ⚒️ How to build step-by-step
-1. Bringing all the material for the detailed use of the bill of material (BOM) section, including their price and purchase link.
-2. Moreover, creating the CAD to life by printing the custom 3D design in the installation section or from files, then converting it to a physical prototype. For example, Fused Deposition Modeling (FDM) is used with PLA (Polylactic Acid) due to its durability, and it can withstand the heavy components.
-3. Then, integrate all the materials, including linking the upper and lower parts of the robot, to ensure they fit. 
-4. After finishing integrating the prototype, we will have two servo motors for each of the four legs, as shown in the 3D design.
-5. Furthermore, we will print the PCB from the files or the installation section, which is the brain of the project.
-6. While PCB is printing, we will create the holder of the board from the files or installation, then gather them together.
-7. Then, put them inside the prototype and connect the wires of the headers pin to the ultrasonic sensor, LCD, and nine servo motors. 
-8. Finally  run out the project and make the dream real.
+1. Using the bill of materials (BOM) table to bring all the components of the project.
+2. Utilizing the CAD file to print the 3D design in the installation section.
+3. Printing the PCB from the files as well as the installation section by sending it to a factory and determining the board dimension 7020x3430 mil.
+4. Integrated the components with the 3D design, including servo motors and an ultrasonic sensor, and an LCD.
+5. Putting the board inside its holder, then between the two layers, place the final connection of the header pins with the servo motors, the ultrasonic sensor, and the LCD, thus the prototype will be finished.
 
 ## 🔬 Test Plan 
-### **The test plan is applied to the project to ensure the durability and efficiency of the integrated materials, including hardware and software testing.**
-1. *Mechanical structural testing:* which proves that the material can withstand the load even under high load, thus putting 2 kg on the top of the prototype to prove its durability.
-2. *Electrical and power testing:* which tests the voltage stability and current, as well as the behavior of the motors, using a digital multimeter to ensure that stability for verifying the motors' strength. The spikes will be used to measure the torque of the motors.
-3. *The kinetic and control test:* which determines whether the motor's angle is accurate or if some errors cause a problem, moreover, checks the delay of the project, and it works well.
-4. *The full project test:* which ensures that the entire prototype connected well together without any errors, and the assembly is working correctly, which is the test that checks the final issues.
+### **The test plan is applied to ensure the stability and efficiency of the prototype, including hardware and software.**
+1. The prototype turns on, and electricity is distributed to all the components without unstable disconnection.
+2. To verify the strength of the prototype by putting an object of 3 kg in the top layer without it collapsing.
+3. The motors themselves will be tested where they rely on the angles to move, thus ensuring the ability of the motors to follow the angle of motion accurately.
+4. Finally, to check the entire prototype interaction and ensure all the materials interact perfectly together, where there are no errors in one component due to another one.
+
 
 ## 🗣️ Motivation
-- These days, the majority of the robot-heavy relines on wheeled robots; however, their mobility and flexibility are critically limited to flat or harsh environments. In contrast, the real world requires a system that can withstand unstable environments or regions 
-- The goal behind this project is to create a project that can fit the changes in the environment, flexible enough to adapt mechanically to unstructured environments where wheeled systems fail.
-- The primary goal for Project Hail Fally is to design a well-affordable structure with varied functions, as well as a cost-effective robot that bridges the gap between the complicated design and physical realization.
-- To develop a lightweight, durable, suitable 3D printed design that can withstand any habitat and cope with it.
-- Cost efficiency project for those who have never had the chance to bring a robot ever, which is designed to compare to high-end industrial robots.
+- What motivated me behind the scenes and inspires me a lot is the fact that the majority of the robots, specifically in Egypt, are not well-built and traditional due to heavy reliance on wheeled robots, which have issues with mobility and fixability in harsh environments like Egypt.
+- Despite the project being inspired by a movie and a main reason that fills me with passion, I have always thought of setting up a new thing from scratch in Egypt since I was young.
+- Creating a project that can fit the harsh changes in multiple regions instead of traditional design and a cost-effective robot so it won't be a waste of money.
+
 
 ## 📷 Project Images
 ### Project Structure
@@ -442,7 +437,8 @@ Finally, make as you did with previous orders, where you bring the call Bluetoot
 ## ⬇️ Project Links & Installing 
 [3D design](https://cad.onshape.com/documents/1a12a7a63424902c2d429a8a/w/e03009ff667dd449c4461ee8/e/06985d8128c2bdd529ca1e70?renderMode=0&uiState=6a232fa71736c3f3fc3942b8)
 <br>[PCB design link](https://u.easyeda.com/join?type=project&key=029c9c63b4f82ed72b2982c6df39406c&inviter=98e19a895f66457f9303f5d792545d7f)
-<br>[BOM.csv](https://github.com/user-attachments/files/28656010/BOM.csv)
+<br>[BOM.csv](https://github.com/user-attachments/files/28831487/BOM.csv)
+
 
 
 
