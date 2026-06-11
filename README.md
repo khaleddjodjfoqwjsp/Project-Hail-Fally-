@@ -38,7 +38,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 | **ATMEGA328P-U** | 1 | 3.63$ | https://free-electronic.com/product/atmega328p-u/ |
 | **Ultrasonic sensor** | 1 | 0.77$ | https://free-electronic.com/product/ultrasonic-sensor-hc-sr04/ |
 | **Bluetooth Module** | 1 | 3.73$ | https://free-electronic.com/product/bluetooth-module-hc-05-6pin-button/ |
-| **LCD 16x2** | 1 | 1.24$ | https://free-electronic.com/product/lcd1602-blue-backlight-with-soldering-pin-header/ |
+| **LCD 16x2** | 1 | 2.2$ | https://free-electronic.com/product/lcd1602-iic-i2c-blue-backlight/ |
 | **Battery Holder ( 9V )** | 1 | 0.23$ | https://free-electronic.com/product/battery-holder-9v/ |
 | **Battery** | 2 | 4.78$ | https://free-electronic.com/product/9v-varta-longlife-power-alkaline-battery/ |
 | **MQ-2 Gas Sensor** | 1 | 1.34$ | https://free-electronic.com/product/mq-2-smoke-gas-lpg-butane-hydrogen-sensor-module/ |
@@ -55,7 +55,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 | **Pin Header 1x3** | 8 | 0.077$ | https://free-electronic.com/product/pin-header-male-2-54mm-1x3-straight/ |
 | **Pin Header 1x4** | 2 | 0.058$ | https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976?category=52 |
 | **PCA9685** | 1 | 3.96$ | https://free-electronic.com/product/servo-driver-module-16-channel-pca9685/ |
-| **Total Price** | | 55.509$ | |
+| **Total Price** | | 56.469$ | |
 
 ## 🔌 Wiring Diagram & Pinouts
 
