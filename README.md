@@ -82,8 +82,8 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 - For the motions button, turn on the light and buzzer in the block you will summon the When Bluetooth clicks block, inside it puts the button, then the text or the letter you will write in the code.
 - Display the message of getting over the limit for temperature and gas using the if block, then put the = block inside it where the condition in the code happens, the message will appear in the app.
 - Finally, for the speaking button, use an if block and summon the word you will say, and write a text that the app will convert your words to code text.
-**Codeblock is the logic code and the design for the mobile app, which is used to control the robot via the app**
-**Firmware is the code in the microcontroller to control the components, such as motors**
+- **Codeblock is the logic code and the design for the mobile app, which is used to control the robot via the app**
+- **Firmware is the code in the microcontroller to control the components, such as motors**
 
 ## ⚒️ How to build step-by-step
 1. Using the bill of materials (BOM) table to bring all the components of the project.
