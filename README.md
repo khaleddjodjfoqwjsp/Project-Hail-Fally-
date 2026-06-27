@@ -121,6 +121,9 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 ### App blocks 
 <img width="1592" height="587" alt="image" src="https://github.com/user-attachments/assets/2784c6be-74e8-4fd3-9022-6e3693e0cd52" />
 
+### Schematic
+<img width="688" height="683" alt="image" src="https://github.com/user-attachments/assets/778276dd-cf82-4bdf-86c5-76168bd3e5ee" />
+
 ## 📖 Magazine 
 <p align="center">
 <img width="1345" height="1999" alt="Project Hail Fally (5)" src="https://github.com/user-attachments/assets/fa361271-ec5c-43dd-b7f7-a249eae0eaad" />
