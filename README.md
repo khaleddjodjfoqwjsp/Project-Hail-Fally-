@@ -21,7 +21,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 <img width="1592" height="587" alt="image" src="https://github.com/user-attachments/assets/2784c6be-74e8-4fd3-9022-6e3693e0cd52" />
 
 ### Schematic
-<img width="688" height="683" alt="image" src="https://github.com/user-attachments/assets/778276dd-cf82-4bdf-86c5-76168bd3e5ee" />
+<img width="817" height="658" alt="image" src="https://github.com/user-attachments/assets/e2a766a7-26a7-4ec1-bd9a-412609489dca" />
 
 ## 📖 Magazine 
 <p align="center">
