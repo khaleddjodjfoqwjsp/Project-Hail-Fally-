@@ -25,7 +25,7 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 
 ## 📖 Magazine 
 <p align="center">
-<img width="1345" height="1999" alt="Project Hail Fally (5)" src="https://github.com/user-attachments/assets/fa361271-ec5c-43dd-b7f7-a249eae0eaad" />
+<img width="1345" height="1999" alt="Project Hail Fally (6)" src="https://github.com/user-attachments/assets/1f01530f-f887-46c3-b118-6141ec6a4e9d" />
 </p>
 
 ## ⚽ purposes
