@@ -87,7 +87,11 @@ One day during our final exam, it rained cats and dogs; therefore, our school re
 3. Printing the PCB from the files as well as the installation section by sending it to a factory and determining the board dimension 7020x3430 mil.
 4. Connect your laptop to the microcontroller ATMEGA328P-U and transfer the code to it, where you will find the code in the firmware folder.
 5. Integrated the components with the 3D design, including servo motors and an ultrasonic sensor, and an LCD to the pin headers using the Wiring Diagram & Pinouts section.
-6. Putting the board inside its holder, then between the two layers, place the final connection of the header pins with the servo motors, the ultrasonic sensor, and the LCD, thus the prototype will be finished.
+6. 	The holes used to connect the components to the 3D, such as servo motors, were connected using nails to link them to the body.
+7. 	The two servo motors will be connected by the hole at the end of the two legs.
+8. 	The case board glowed to the body as shown in 3D.
+9. 	The robot head will be connected to the body by the nails.
+10. Putting the board inside its holder, then between the two layers, place the final connection of the header pins with the servo motors, the ultrasonic sensor, and the LCD, thus the prototype will be finished.
 
 ## 🔬 Test Plan 
 ### **The test plan is applied to ensure the stability and efficiency of the prototype, including hardware and software.**
